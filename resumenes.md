@@ -16,3 +16,7 @@
 * Comunicacion entre Procesos
 * Criterios de Planificacion
 * Algoritmos de Planificacion
+
+# Clase 3
+
+* Ejercicios Planificacion
