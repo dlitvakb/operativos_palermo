@@ -20,3 +20,7 @@
 # Clase 3
 
 * Ejercicios Planificacion
+
+# Clase 4
+
+* Sincronizacion
