@@ -24,3 +24,11 @@
 # Clase 4
 
 * Sincronizacion
+
+# Clase 5
+
+* Deadlock
+
+# Clase 6
+
+* Memoria Principal
