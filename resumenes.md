@@ -32,3 +32,14 @@
 # Clase 6
 
 * Memoria Principal
+* Direccionamiento de Memoria
+* Tiempos de Linkedicion
+* Tenicas de Aministracion de Memoria (Sin Swapping)
+* Criterios de Asignacion de Memoria Principal
+* Fragmentacion
+* Paginacion
+
+# Clase 7 (en 6.md)
+
+* Segmentacion
+* Paginacion-Segmentacion
