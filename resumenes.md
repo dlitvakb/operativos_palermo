@@ -43,3 +43,12 @@
 
 * Segmentacion
 * Paginacion-Segmentacion
+
+# Clase 8
+
+* Memoria Virtual (Swapping)
+* Paginacion en Swapping
+* Tiempo de Fallo de Pagina
+* Tiempo de Acceso Efectivo
+* Tecnicas de Reduccion de Accesos a Disco
+* Criterios de Reemplazo de Paginas
