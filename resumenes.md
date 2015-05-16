@@ -52,3 +52,14 @@
 * Tiempo de Acceso Efectivo
 * Tecnicas de Reduccion de Accesos a Disco
 * Criterios de Reemplazo de Paginas
+
+# Clase 9
+
+* PEDIR
+
+# Clase 10
+
+* Administracion de I/O Perifericos
+* Tipos de Perifericos
+* Estrategias de Acceso a Disco
+* Sistemas RAID
