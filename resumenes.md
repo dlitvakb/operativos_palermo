@@ -63,3 +63,7 @@
 * Tipos de Perifericos
 * Estrategias de Acceso a Disco
 * Sistemas RAID
+
+# Clase 11
+
+* Administracion de Archivos
