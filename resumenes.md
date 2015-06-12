@@ -67,3 +67,8 @@
 # Clase 11
 
 * Administracion de Archivos
+
+# Clase 12
+
+* Sistemas Distribuidos
+* Repaso Modelo OSI (comunicaciones)
